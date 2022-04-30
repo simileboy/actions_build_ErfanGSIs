@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://bigota.d.miui.com/20.4.27/miui_MIMIX3_20.4.27_8f7879221b_10.0.zip
-  ROM_NAME: MIUI
+  ROM_URL: https://dl3.smartisan.com/ota/mol.darwin-ard11-rom-8.5.0-SEKSA.darwin-user/202112291350/8.5.1-202112291222-user-drw-e3ff9b8cf6.zip
+  ROM_NAME: SMARTISANOS
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
